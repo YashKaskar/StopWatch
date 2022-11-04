@@ -7,3 +7,14 @@
 text-align: center;
 margin-top: 9rem;
 }
+
+.allwrap{   
+    position: absolute;
+    top: 44%;
+    left: 44%;
+}
+
+.container{ 
+    text-align: center;
+    font-size: 29px;
+}
