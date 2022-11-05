@@ -1,10 +1,10 @@
-*{  
-    font-family: 'Shadows Into Light', cursive;
+*{     
     background-color: #FCDDB0;
 }
 
 .h1{    
 text-align: center;
+font-family: 'Shadows Into Light', cursive;
 
 }
 
@@ -25,15 +25,21 @@ text-align: center;
 .allwrap p {    
     font-size: 59px;
     margin-bottom: 29px;
+    
 }
 
 button{ 
     font-size: 39px;
     margin-left: 2rem;
     border-radius: 25%;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 button:hover{   
     color: #749F82;
     border-color: #749F82;
+}
+
+p{  
+    font-family: 'Montserrat', sans-serif;
 }
