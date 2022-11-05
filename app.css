@@ -43,3 +43,9 @@ button:hover{
 p{  
     font-family: 'Montserrat', sans-serif;
 }
+
+.name{  
+    font-size: 19px;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 19rem;
+}
